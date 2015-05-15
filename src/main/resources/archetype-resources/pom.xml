@@ -7,14 +7,6 @@
   <packaging>jar</packaging>
   <name>My Project</name>
   <description>My Project Description.</description>
-  <url>https://github.com/me/myartifact</url>
-
-  <licenses>
-    <license>
-      <name>The MIT License (MIT)</name>
-      <url>https://github.com/me/myartifact/src/main/resources/LICENSE.txt</url>
-    </license>
-  </licenses>
 
   <developers>
     <developer>
@@ -22,13 +14,6 @@
       <email>me@my.me</email>
     </developer>
   </developers>
-
-  <scm>
-    <connection>scm:git:git@github.com:me/myartifact.git</connection>
-    <developerConnection>scm:git:git@github.com:me/myartifact.git</developerConnection>
-    <url>git@github.com:me/myartifact.git</url>
-    <tag>myartifact-0.0.0</tag>
-  </scm>
 
   <properties>
     <maven.compiler.source>1.7</maven.compiler.source>
