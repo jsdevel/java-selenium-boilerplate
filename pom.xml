@@ -123,6 +123,12 @@
             <autoReleaseAfterClose>true</autoReleaseAfterClose>
           </configuration>
         </plugin>
+
+        <plugin>
+          <groupId>org.sonatype.nexus.plugins</groupId>
+          <artifactId>nexus-archetype-plugin</artifactId>
+          <version>3.0.0-b2014101001</version>
+        </plugin>
       </plugins>
     </pluginManagement>
   </build>
