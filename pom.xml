@@ -6,7 +6,7 @@
   <groupId>com.github.jsdevel</groupId>
   <artifactId>testng-selenium-archetype</artifactId>
   <version>0.10.15-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>maven-archetype</packaging>
   <url>https://github.com/jsdevel/java-testng-selenium-archetype</url>
 
   <licenses>
