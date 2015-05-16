@@ -1,4 +1,4 @@
 #!/bin/bash
 set -e
-mvn javadoc:jar source:jar release:clean release:prepare release:perform
+mvn release:clean release:prepare release:perform
 git push origin master
