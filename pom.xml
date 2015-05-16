@@ -5,7 +5,7 @@
   <description>Quickly get up and running with testng-selenium.</description>
   <groupId>com.github.jsdevel</groupId>
   <artifactId>testng-selenium-archetype</artifactId>
-  <version>0.10.15-SNAPSHOT</version>
+  <version>0.10.15</version>
   <packaging>maven-archetype</packaging>
   <url>https://github.com/jsdevel/java-testng-selenium-archetype</url>
 
@@ -27,7 +27,7 @@
     <connection>scm:git:git@github.com:jsdevel/java-testng-selenium-archetype.git</connection>
     <developerConnection>scm:git:git@github.com:jsdevel/java-testng-selenium-archetype.git</developerConnection>
     <url>git@github.com:jsdevel/java-testng-selenium-archetype.git</url>
-    <tag>testng-selenium-archetype-0.9.0</tag>
+    <tag>testng-selenium-archetype-0.10.15</tag>
   </scm>
 
   <distributionManagement>
